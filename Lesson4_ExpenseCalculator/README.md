@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 15, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Olivia Hrbek)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment was just understand the basics of creating an interactive element to a web page in the version of a expense calculator. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://oliviachristene.github.io/lesson4_javascript1/
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. This assignment showed how Javascript can be more beneficial than just HTML for creating interactive websites.
+2. This assignment briefly taught several Javascript terminologies, but not all. Some of these terms include variable, script, and float. 
+3. I also learned the necessary steps to align both an HTML file with its Javascript file. 
 
 
 
